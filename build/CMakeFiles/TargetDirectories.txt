@@ -1,0 +1,5 @@
+/home/yuriy/Repositories/inference/build/CMakeFiles/WorkerExample.dir
+/home/yuriy/Repositories/inference/build/CMakeFiles/edit_cache.dir
+/home/yuriy/Repositories/inference/build/CMakeFiles/rebuild_cache.dir
+/home/yuriy/Repositories/inference/build/CMakeFiles/WorkerExample_autogen_timestamp_deps.dir
+/home/yuriy/Repositories/inference/build/CMakeFiles/WorkerExample_autogen.dir
